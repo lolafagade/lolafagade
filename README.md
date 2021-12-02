@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lolafagade
 - 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning AWS Solutions Arechitect
+- 🌱 I’m currently learning AWS Solutions Architect
 - 💞️ I’m looking to collaborate on any fun analytics or machine learning project to build up my skills
 - 📫 How to reach me omololafagade@gmail.com
 
